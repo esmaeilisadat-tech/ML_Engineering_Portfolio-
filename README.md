@@ -5,7 +5,7 @@ Hier finden Sie meine täglichen Machine Learning Übungen, aufgeteilt nach Tage
 
 Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme können direkt im Browser betrachtet werden.
 
-> **Tipp:** Klicken Sie auf die 👁️ **Ansicht** Links, um die Notebooks direkt im nbviewer mit allen Diagrammen zu öffnen!
+> **Hinweis:** Manchmal hat `nbviewer` ein Rate-Limit erreicht (GitHub API rate limit exceeded). In diesem Fall können Sie einfach den **Google Colab** Link verwenden, der immer problemlos funktioniert und in dem Sie den Code auch interaktiv testen können!
 
 ## Übersicht der Tage
 
@@ -13,9 +13,9 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/data/README.md) | [sample_energy_data.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/data/sample_energy_data.csv) | [sample_life_data.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/data/sample_life_data.csv)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/notebooks/Anfaenger.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_01_Einfuehrung/notebooks/Anfaenger.ipynb) |
 
 ---
 
@@ -23,9 +23,9 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_02_Preprocessing/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_02_Preprocessing/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_02_Preprocessing/notebooks/Fortgeschrittene.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_02_Preprocessing/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_02_Preprocessing/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_02_Preprocessing/notebooks/Fortgeschrittene.ipynb) |
 
 ---
 
@@ -33,9 +33,9 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/data/README.md) | [sample_creditcard.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/data/sample_creditcard.csv)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_03_Imbalanced_Data/notebooks/Experte.ipynb) |
 
 ---
 
@@ -43,8 +43,8 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_04_Outlier_Detection/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
 
 ---
 
@@ -52,11 +52,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_05_PCA/notebooks/Experte.ipynb) |
 
 ---
 
@@ -64,11 +64,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/data/README.md) | [sample_creditcard.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/data/sample_creditcard.csv)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_06_Autoencoder/notebooks/Experte.ipynb) |
 
 ---
 
@@ -76,11 +76,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_07_Decision_Trees/notebooks/Experte.ipynb) |
 
 ---
 
@@ -88,11 +88,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_08_Clustering/notebooks/Experte.ipynb) |
 
 ---
 
@@ -100,11 +100,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_09_Ensemble/notebooks/Experte.ipynb) |
 
 ---
 
@@ -112,11 +112,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/data/README.md) | [sample_train.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/data/sample_train.csv)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_10_Boosting/notebooks/Experte.ipynb) |
 
 ---
 
@@ -124,11 +124,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/data/README.md) | [sample_mobile_price_data_train.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/data/sample_mobile_price_data_train.csv) | [sample_sonar.csv](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/data/sample_sonar.csv)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_11_Hyperparameter/notebooks/Experte.ipynb) |
 
 ---
 
@@ -136,11 +136,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_12_Regression/notebooks/Experte.ipynb) |
 
 ---
 
@@ -148,11 +148,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_13_Reinforcement_Learning/notebooks/Experte.ipynb) |
 
 ---
 
@@ -160,11 +160,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_14_Transfer_Learning/notebooks/Experte.ipynb) |
 
 ---
 
@@ -172,11 +172,11 @@ Alle Notebooks sind vollständig ausgeführt und die Ergebnisse sowie Diagramme 
 
 **📊 Datensätze:** [README.md](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/data/README.md)
 
-| Schwierigkeitsgrad | GitHub Link | Interaktive Ansicht (nbviewer) |
-|-------------------|-------------|--------------------------------|
-| Anfaenger | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Anfaenger.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Anfaenger.ipynb) |
-| Fortgeschrittene | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Fortgeschrittene.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Fortgeschrittene.ipynb) |
-| Experte | [📂 GitHub Code](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Experte.ipynb) | [👁️ Ansicht](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Experte.ipynb) |
+| Schwierigkeitsgrad | GitHub Code | nbviewer (Ansicht) | Google Colab |
+|-------------------|-------------|--------------------|--------------|
+| Anfaenger | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Anfaenger.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Anfaenger.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Anfaenger.ipynb) |
+| Fortgeschrittene | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Fortgeschrittene.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Fortgeschrittene.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Fortgeschrittene.ipynb) |
+| Experte | [📂 GitHub](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Experte.ipynb) | [👁️ nbviewer](https://nbviewer.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Experte.ipynb) | [🚀 Colab](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/Tag_15_AutoML/notebooks/Experte.ipynb) |
 
 ---
 
