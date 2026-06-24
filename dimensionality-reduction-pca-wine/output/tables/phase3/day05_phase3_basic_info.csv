@@ -1,0 +1,6 @@
+item,value
+number_of_samples,801
+number_of_gene_features,20531
+number_of_classes,5
+label_column,Class
+missing_values_in_X,0

@@ -1,0 +1,15 @@
+item,value
+Number of samples,801
+Number of original gene features,20531
+Number of tumor classes,5
+PCA runtime seconds,0.2684
+t-SNE runtime seconds,3.0039
+UMAP runtime seconds,12.7034
+PCA trustworthiness,0.7863
+t-SNE trustworthiness,0.9415
+UMAP trustworthiness,0.9175
+Fastest method,PCA
+Best trustworthiness method,t-SNE
+PCA50 explained variance,0.6367
+PCA50 + UMAP runtime seconds,1.4503
+PCA50 + UMAP trustworthiness vs original,0.9299

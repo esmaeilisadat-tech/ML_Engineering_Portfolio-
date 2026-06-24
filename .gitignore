@@ -2,3 +2,9 @@
 # Ignore large datasets for GitHub
 # *.csv
 !sample_*.csv
+
+# Ignore Santander and other massive datasets
+hyperparameter-optimization-machine-learning/data/train.csv
+hyperparameter-optimization-machine-learning/data/test.csv
+*.log
+dimensionality-reduction-pca-wine/data/gene_expression/data.csv

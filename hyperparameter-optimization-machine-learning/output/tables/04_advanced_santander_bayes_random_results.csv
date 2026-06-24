@@ -1,0 +1,3 @@
+level,method,dataset,model,best_score_roc_auc,validation_roc_auc,runtime_seconds,best_params
+advanced,RandomizedSearchCV,Santander Customer Transaction,HistGradientBoostingClassifier,0.8520315868036045,0.8672336332916804,60.889116525650024,"{'l2_regularization': 0.004714358681860228, 'learning_rate': 0.03896217029789141, 'max_iter': 299, 'max_leaf_nodes': 30}"
+advanced,BayesSearchCV,Santander Customer Transaction,HistGradientBoostingClassifier,0.8565011212811933,0.8788151107916587,195.84569811820984,"OrderedDict([('l2_regularization', 10.0), ('learning_rate', 0.07536593442374637), ('max_iter', 262), ('max_leaf_nodes', 15)])"

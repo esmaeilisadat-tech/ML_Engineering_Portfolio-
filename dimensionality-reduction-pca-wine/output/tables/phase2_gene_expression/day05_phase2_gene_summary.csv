@@ -1,0 +1,16 @@
+item,value
+Number of samples,801
+Number of original gene features,20531
+Number of classes,5
+Components for 85% variance,262
+Components for 90% variance,373
+Components for 95% variance,530
+2D explained variance (%),19.29
+3D explained variance (%),27.1
+Original Logistic Regression accuracy,0.9814
+PCA Logistic Regression accuracy,1.0
+Original training time seconds,0.436
+PCA training time seconds,0.0326
+PCA 95% components in train split,434
+Top PC1 genes,"gene_19862, gene_17360, gene_13489, gene_15158, gene_7031, gene_7019, gene_10788, gene_13507, gene_6543, gene_2288"
+Top PC2 genes,"gene_3612, gene_1222, gene_14699, gene_1010, gene_19498, gene_1113, gene_3603, gene_364, gene_11153, gene_19866"
