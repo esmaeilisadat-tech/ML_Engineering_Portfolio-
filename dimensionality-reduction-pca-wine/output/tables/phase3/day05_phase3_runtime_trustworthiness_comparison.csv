@@ -1,4 +1,4 @@
 method,runtime_seconds,trustworthiness,notes
-PCA,0.2684,0.7863,Linear baseline; fastest but may overlap clusters
-t-SNE,3.0039,0.9415,Nonlinear; often strong cluster visualization
-UMAP,12.7034,0.9175,Nonlinear; often strong local structure preservation
+PCA,0.2614,0.7863,Linear baseline; fastest but may overlap clusters
+t-SNE,2.3851,0.9415,Nonlinear; often strong cluster visualization
+UMAP,12.5615,0.9175,Nonlinear; often strong local structure preservation

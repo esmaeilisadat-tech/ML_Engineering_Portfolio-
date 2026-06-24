@@ -1,3 +1,3 @@
 method,runtime_seconds,trustworthiness_vs_original,trustworthiness_vs_input_space,input_dimensions,notes
-Direct UMAP,12.7034,0.9175,0.9175,20531,UMAP directly on all standardized gene features
-PCA(50) + UMAP,1.4503,0.9299,0.9595,50,"PCA first reduces to 50 components, then UMAP runs on PCA space"
+Direct UMAP,12.5615,0.9175,0.9175,20531,UMAP directly on all standardized gene features
+PCA(50) + UMAP,1.5637,0.9299,0.9595,50,"PCA first reduces to 50 components, then UMAP runs on PCA space"
