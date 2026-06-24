@@ -1,0 +1,3 @@
+method,silhouette,notes
+K-Means k=2,0.8958167182320717,all points
+DBSCAN eps=1.0 min_samples=3,0.8109997696739262,noise excluded

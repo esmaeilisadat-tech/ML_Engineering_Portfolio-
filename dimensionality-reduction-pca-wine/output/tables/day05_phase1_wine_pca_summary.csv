@@ -1,0 +1,10 @@
+item,value
+Number of rows,1599
+Number of original features,11
+Target column,quality
+PC1 explained variance (%),28.17
+PC2 explained variance (%),17.51
+Total 2D explained variance (%),45.68
+Total 3D explained variance (%),59.78
+Top PC1 contributing features,"fixed acidity, citric acid, pH, density, sulphates"
+Top PC2 contributing features,"total sulfur dioxide, free sulfur dioxide, alcohol, volatile acidity, residual sugar"

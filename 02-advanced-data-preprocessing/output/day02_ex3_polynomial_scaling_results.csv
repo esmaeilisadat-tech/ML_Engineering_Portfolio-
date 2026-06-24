@@ -1,0 +1,4 @@
+Method,RMSE,R2
+Polynomial only - no scaling,55.778725581149025,0.42365897523964136
+PolynomialFeatures before StandardScaler,83.926051826596,-0.30477595681572933
+StandardScaler before PolynomialFeatures,92.76027323178448,-0.5939195521207765

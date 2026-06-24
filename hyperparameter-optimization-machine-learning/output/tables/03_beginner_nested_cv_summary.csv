@@ -1,0 +1,2 @@
+level,method,dataset,mean_accuracy,std_accuracy,n_outer_folds
+beginner,Nested Cross-Validation,bank.csv,0.8986938346452844,0.006489730653161812,5

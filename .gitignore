@@ -1,4 +1,4 @@
 
 # Ignore large datasets for GitHub
-*.csv
+# *.csv
 !sample_*.csv

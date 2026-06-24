@@ -1,0 +1,4 @@
+method,n_clusters,n_noise,silhouette_higher_better,davies_bouldin_lower_better,calinski_harabasz_higher_better
+K-Means k=8,8,0,0.49918333142081733,0.6617470449266294,1972.2726047288643
+Hierarchical Ward k=8,8,0,0.5009877413785268,0.6087698291904456,1808.342027636643
+DBSCAN eps=1.0 min_samples=5,1,20,,,

@@ -1,0 +1,7 @@
+Method,Number_of_outliers,Outlier_percent
+IQR_outlier,7817,65.14166666666667
+Isolation_Forest_outlier,360,3.0
+LOF_outlier,360,3.0
+ABOD_outlier,360,3.0
+CBLOF_outlier,360,3.0
+PyOD_IForest_outlier,360,3.0
