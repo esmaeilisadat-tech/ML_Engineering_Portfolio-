@@ -1,36 +1,70 @@
-# Machine Learning Engineering Portfolio
+﻿<div align="center">
+  <h1>🧠 Machine Learning Engineering Portfolio</h1>
+  <p>
+    <strong>A comprehensive journey from Data Engineering to Advanced Deep Learning and MLOps.</strong>
+  </p>
+  <p>
+    <a href="https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/stargazers"><img src="https://img.shields.io/github/stars/esmaeilisadat-tech/Machine-Learning-Exercises?style=for-the-badge&color=yellow" alt="Stars Badge"/></a>
+    <a href="https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/network/members"><img src="https://img.shields.io/github/forks/esmaeilisadat-tech/Machine-Learning-Exercises?style=for-the-badge&color=orange" alt="Forks Badge"/></a>
+    <a href="https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/issues"><img src="https://img.shields.io/github/issues/esmaeilisadat-tech/Machine-Learning-Exercises?style=for-the-badge&color=red" alt="Issues Badge"/></a>
+    <a href="https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/graphs/contributors"><img src="https://img.shields.io/github/contributors/esmaeilisadat-tech/Machine-Learning-Exercises?style=for-the-badge&color=green" alt="Contributors Badge"/></a>
+  </p>
+</div>
 
-Welcome to my Machine Learning Engineering Portfolio. 🚀
-I hold a Master's degree in Plasma Physics and have completed a Weiterbildung in Python and Machine Learning. This repository showcases my transition from analytical physics to applied Data Science and ML Engineering. 
+<hr/>
 
-My focus is not just on building models, but on building **reproducible, clean, and robust machine learning pipelines** — bridging the gap between raw data and production-ready systems.
+Welcome to my Machine Learning Engineering Portfolio! 🚀 
 
-## Portfolio Structure
+I hold a **Master's degree in Plasma Physics** and have completed a rigorous **Weiterbildung in Python and Machine Learning**. This repository showcases my professional transition from analytical physics to applied Data Science and ML Engineering. 
 
-The portfolio consists of 14 standalone projects, ranging from foundational ML algorithms to Advanced Deep Learning and AutoML. 
+My core focus is not just on training models, but on building **reproducible, clean, and robust machine learning pipelines** — effectively bridging the gap between raw, messy data and production-ready systems.
+
+## 📁 Portfolio Structure
+
+This portfolio consists of **14 standalone, end-to-end projects**. Each project is meticulously structured and includes data, executable Jupyter notebooks (categorized by difficulty: Beginner, Intermediate, Expert), and generated output visualizations.
+
+> 💡 **Tip:** Click on any project name below to view its specific README.md, which contains direct links to open the notebooks in **Google Colab** and **nbviewer**!
 
 | Project | Domain | Key Technologies & Topics |
 |---------|--------|---------------------------|
-| [**01-ml-engineering-foundations**](./01-ml-engineering-foundations/) | Regression | Scikit-Learn, Linear Regression, Data Exploration |
-| [**02-advanced-data-preprocessing**](./02-advanced-data-preprocessing/) | Preprocessing | Robust Scaling, Skewness Correction, Pipeline Design |
-| [**03-imbalanced-learning-techniques**](./03-imbalanced-learning-techniques/) | Classification | SMOTE, Class Weights, Fraud Detection |
-| [**04-anomaly-detection-outlier-analysis**](./anomaly-detection-outlier-analysis/) | Unsupervised | Isolation Forest, Local Outlier Factor |
-| [**05-dimensionality-reduction-pca-wine**](./dimensionality-reduction-pca-wine/) | Feature Engineering | PCA, Variance Explanation, t-SNE |
-| [**06-autoencoder-feature-extraction**](./autoencoder-feature-extraction/) | Deep Learning | PyTorch, Autoencoders, Anomaly Detection |
-| [**07-decision-trees-predictive-modeling**](./decision-trees-predictive-modeling/) | Tree Models | Decision Trees, Gini/Entropy, Overfitting Control |
-| [**08-customer-segmentation-rfm-kmeans**](./customer-segmentation-rfm-kmeans/) | Clustering | K-Means, DBSCAN, RFM Analysis, Silhouette Score |
-| [**09-ensemble-learning-model-comparison**](./ensemble-learning-model-comparison/) | Ensembles | Random Forest, AdaBoost, Voting Classifiers |
-| [**10-gradient-boosting-performance-tuning**](./gradient-boosting-performance-tuning/) | Advanced Trees | XGBoost, LightGBM, CatBoost |
-| [**11-hyperparameter-optimization-machine-learning**](./hyperparameter-optimization-machine-learning/) | MLOps/Tuning | GridSearchCV, RandomizedSearchCV, Optuna |
-| [**12-reinforcement-learning-cartpole**](./reinforcement-learning-cartpole/) | Reinforcement | OpenAI Gym, Q-Learning, Deep Q-Networks |
-| [**13-computer-vision-cnn-cats-dogs**](./computer-vision-cnn-cats-dogs/) | Computer Vision | CNNs, Transfer Learning, ResNet, Image Augmentation |
-| [**14-automl-pipeline-optimization**](./automl-pipeline-optimization/) | AutoML | TPOT, Auto-sklearn, H2O, Automated Feature Engineering |
+| 🔬 **Foundations & Preprocessing** | | |
+| [**01. ML Engineering Foundations**](./01-ml-engineering-foundations/) | Regression | Scikit-Learn, Linear Regression, Data Exploration |
+| [**02. Advanced Data Preprocessing**](./02-advanced-data-preprocessing/) | Preprocessing | Robust Scaling, Skewness Correction, Pipeline Design |
+| [**03. Imbalanced Learning Techniques**](./03-imbalanced-learning-techniques/) | Classification | SMOTE, Class Weights, Fraud Detection |
+| [**04. Anomaly Detection & Outlier Analysis**](./anomaly-detection-outlier-analysis/) | Unsupervised | Isolation Forest, Local Outlier Factor |
+| [**05. Dimensionality Reduction (PCA)**](./dimensionality-reduction-pca-wine/) | Feature Eng | PCA, Variance Explanation, t-SNE |
+| 🤖 **Core Machine Learning** | | |
+| [**06. Decision Trees Predictive Modeling**](./decision-trees-predictive-modeling/) | Tree Models | Decision Trees, Gini/Entropy, Overfitting Control |
+| [**07. Ensemble Learning Model Comparison**](./ensemble-learning-model-comparison/) | Ensembles | Random Forest, AdaBoost, Voting Classifiers |
+| [**08. Gradient Boosting Performance Tuning**](./gradient-boosting-performance-tuning/) | Advanced Trees| XGBoost, LightGBM, CatBoost |
+| [**09. Customer Segmentation (RFM/K-Means)**](./customer-segmentation-rfm-kmeans/) | Clustering | K-Means, DBSCAN, RFM Analysis, Silhouette Score |
+| 🧠 **Deep Learning & Advanced Topics** | | |
+| [**10. Autoencoder Feature Extraction**](./autoencoder-feature-extraction/) | Deep Learning | PyTorch, Autoencoders, Anomaly Detection |
+| [**11. Computer Vision (CNNs)**](./computer-vision-cnn-cats-dogs/) | Vision | CNNs, Transfer Learning, ResNet, Image Augmentation |
+| [**12. Reinforcement Learning (CartPole)**](./reinforcement-learning-cartpole/) | RL | OpenAI Gym, Q-Learning, Deep Q-Networks |
+| ⚙️ **MLOps & Automation** | | |
+| [**13. Hyperparameter Optimization**](./hyperparameter-optimization-machine-learning/) | MLOps | GridSearchCV, RandomizedSearchCV, Optuna |
+| [**14. AutoML Pipeline Optimization**](./automl-pipeline-optimization/) | AutoML | TPOT, Auto-sklearn, H2O, Auto Feature Engineering |
 
-## Viewing the Projects
+## 🚀 How to View & Run the Projects
 
-Each project folder contains its own `README.md` with detailed explanations, along with the source data (where applicable), Jupyter Notebooks, and generated outputs (plots, evaluation metrics). 
+1. **GitHub Viewer:** Simply click on any project above and open the .ipynb files in the 
+otebooks/ directory.
+2. **Google Colab:** Inside each project's folder, you will find a custom README.md containing [![Open In Colab]](...) badges. Click them to instantly spin up the notebook in Google Colab!
+3. **Local Execution:** Clone this repository, install the requirements, and run the notebooks using Jupyter. All dependencies are handled cleanly.
 
-The notebooks are designed to be run seamlessly. If GitHub's native notebook rendering fails or if you want to experiment with the code yourself, each project includes links to open the notebooks interactively in **Google Colab**.
+## 📊 Datasets & Outputs
 
-## Contact & Profile
-Feel free to explore the code! If you're looking for a dedicated Junior ML Engineer or Data & AI Consultant who combines rigorous mathematical analysis with strong software engineering practices, please reach out.
+- **Datasets:** All necessary datasets are bundled in the data/ directory of each project. Some are dynamically generated. You can download the raw datasets via the specific project's README.
+- **Outputs:** High-quality PNG visualisations, HTML interactive graphs, and summary CSVs are automatically generated during execution and saved into the output/ directory for immediate viewing.
+
+## 📫 Contact & Profile
+
+Feel free to explore the code! If you're looking for a dedicated **Junior ML Engineer** or **Data & AI Consultant** who combines rigorous mathematical analysis with strong software engineering practices, please reach out.
+
+- **GitHub:** [@esmaeilisadat-tech](https://github.com/esmaeilisadat-tech)
+
+<hr/>
+<div align="center">
+  <i>"In God we trust, all others must bring data." - W. Edwards Deming</i>
+</div>
