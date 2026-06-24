@@ -7,7 +7,7 @@ My focus is not just on building models, but on building **reproducible, clean, 
 
 ## Portfolio Structure
 
-The portfolio consists of 15 standalone projects, ranging from foundational ML algorithms to Advanced Deep Learning and AutoML. 
+The portfolio consists of 14 standalone projects, ranging from foundational ML algorithms to Advanced Deep Learning and AutoML. 
 
 | Project | Domain | Key Technologies & Topics |
 |---------|--------|---------------------------|
@@ -22,10 +22,9 @@ The portfolio consists of 15 standalone projects, ranging from foundational ML a
 | [**09-ensemble-learning-model-comparison**](./ensemble-learning-model-comparison/) | Ensembles | Random Forest, AdaBoost, Voting Classifiers |
 | [**10-gradient-boosting-performance-tuning**](./gradient-boosting-performance-tuning/) | Advanced Trees | XGBoost, LightGBM, CatBoost |
 | [**11-hyperparameter-optimization-machine-learning**](./hyperparameter-optimization-machine-learning/) | MLOps/Tuning | GridSearchCV, RandomizedSearchCV, Optuna |
-| [**12-worldcup2026-ml-prediction-dashboard**](./worldcup2026-ml-prediction-dashboard/) | Regression | Ridge, Lasso, ElasticNet, Polynomial Features |
-| [**13-reinforcement-learning-cartpole**](./reinforcement-learning-cartpole/) | Reinforcement | OpenAI Gym, Q-Learning, Deep Q-Networks |
-| [**14-computer-vision-cnn-cats-dogs**](./computer-vision-cnn-cats-dogs/) | Computer Vision | CNNs, Transfer Learning, ResNet, Image Augmentation |
-| [**15-automl-pipeline-optimization**](./automl-pipeline-optimization/) | AutoML | TPOT, Auto-sklearn, H2O, Automated Feature Engineering |
+| [**12-reinforcement-learning-cartpole**](./reinforcement-learning-cartpole/) | Reinforcement | OpenAI Gym, Q-Learning, Deep Q-Networks |
+| [**13-computer-vision-cnn-cats-dogs**](./computer-vision-cnn-cats-dogs/) | Computer Vision | CNNs, Transfer Learning, ResNet, Image Augmentation |
+| [**14-automl-pipeline-optimization**](./automl-pipeline-optimization/) | AutoML | TPOT, Auto-sklearn, H2O, Automated Feature Engineering |
 
 ## Viewing the Projects
 
