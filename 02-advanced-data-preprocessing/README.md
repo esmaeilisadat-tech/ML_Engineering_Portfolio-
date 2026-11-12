@@ -4,10 +4,10 @@ This project is part of my Machine Learning Engineering Portfolio.
 
 ## Interactive Notebooks
 
-You can view or run these notebooks interactively using the links below:
+Click **Open in Colab** to open the notebook directly in Google Colab:
 
 ### Advanced Data Preprocessing Intermediate
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/02-advanced-data-preprocessing/notebooks/Advanced_Data_Preprocessing_Intermediate.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/02-advanced-data-preprocessing/notebooks/Advanced_Data_Preprocessing_Intermediate.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/02-advanced-data-preprocessing/notebooks/Advanced_Data_Preprocessing_Intermediate.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/02-advanced-data-preprocessing/notebooks/Advanced_Data_Preprocessing_Intermediate.ipynb)
 
 ## Datasets
 

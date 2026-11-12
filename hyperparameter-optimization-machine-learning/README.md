@@ -4,19 +4,19 @@ This project is part of my Machine Learning Engineering Portfolio.
 
 ## Interactive Notebooks
 
-You can view or run these notebooks interactively using the links below:
+Click **Open in Colab** to open the notebook directly in Google Colab:
 
 ### Anfaenger
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Bank_Marketing_Grid_Random_Nested_CV_Beginner.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Bank_Marketing_Grid_Random_Nested_CV_Beginner.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Bank_Marketing_Grid_Random_Nested_CV_Beginner.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Bank_Marketing_Grid_Random_Nested_CV_Beginner.ipynb)
 
 ### Fortgeschrittene
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Santander_Bayesian_Optimization_Intermediate.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Santander_Bayesian_Optimization_Intermediate.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Santander_Bayesian_Optimization_Intermediate.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Santander_Bayesian_Optimization_Intermediate.ipynb)
 
 ### Experte
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Expert.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Expert.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Expert.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Expert.ipynb)
 
 ### Extra_Loesung_1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Extra_Solution.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Extra_Solution.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Extra_Solution.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Extra_Solution.ipynb)
 
 ## Datasets
 
