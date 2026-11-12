@@ -7,7 +7,7 @@ This project is part of my Machine Learning Engineering Portfolio.
 You can view or run these notebooks interactively using the links below:
 
 ### Experte
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/03-imbalanced-learning-techniques/notebooks/Experte.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/03-imbalanced-learning-techniques/notebooks/Experte.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/03-imbalanced-learning-techniques/notebooks/Experte.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/03-imbalanced-learning-techniques/notebooks/Imbalanced_Classification_Expert.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/03-imbalanced-learning-techniques/notebooks/Imbalanced_Classification_Expert.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/03-imbalanced-learning-techniques/notebooks/Imbalanced_Classification_Expert.ipynb)
 
 ## Datasets
 
