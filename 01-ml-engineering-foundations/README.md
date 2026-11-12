@@ -6,8 +6,8 @@ This project is part of my Machine Learning Engineering Portfolio.
 
 You can view or run these notebooks interactively using the links below:
 
-### Anfaenger
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb)
+### Energy and Life Regression Beginner
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/01-ml-engineering-foundations/notebooks/Energy_and_Life_Regression_Beginner.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/01-ml-engineering-foundations/notebooks/Energy_and_Life_Regression_Beginner.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio-/blob/main/01-ml-engineering-foundations/notebooks/Energy_and_Life_Regression_Beginner.ipynb)
 
 ## Datasets
 
