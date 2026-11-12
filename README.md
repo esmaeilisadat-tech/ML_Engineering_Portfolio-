@@ -46,6 +46,30 @@ This portfolio consists of **14 standalone, end-to-end projects**. Each project 
 | [**13. Hyperparameter Optimization**](./hyperparameter-optimization-machine-learning/) | MLOps | GridSearchCV, RandomizedSearchCV, Optuna |
 | [**14. AutoML Pipeline Optimization**](./automl-pipeline-optimization/) | AutoML | TPOT, Auto-sklearn, H2O, Auto Feature Engineering |
 
+
+## Selected Notebooks — What Each Project Demonstrates
+
+These notebooks preserve the original exercises, code, saved outputs and results. Filenames describe the actual task while retaining the existing project folders and exercise levels.
+
+| Project | Notebook | Demonstrated work |
+|---|---|---|
+| ML Foundations | [Energy and Life Regression (Beginner)](./01-ml-engineering-foundations/notebooks/Energy_and_Life_Regression_Beginner.ipynb) | Regression modeling and performance metrics using energy and life datasets |
+| Data Preprocessing | [Advanced Data Preprocessing (Intermediate)](./02-advanced-data-preprocessing/notebooks/Advanced_Data_Preprocessing_Intermediate.ipynb) | Robust scaling, skewness correction, feature preprocessing and model-oriented transformations |
+| Imbalanced Classification | [Imbalanced Classification (Expert)](./03-imbalanced-learning-techniques/notebooks/Imbalanced_Classification_Expert.ipynb) | Class imbalance, precision/recall, F1, ROC-AUC, resampling and threshold analysis |
+| Anomaly Detection | [Pharmaceutical Anomaly Detection (All Levels)](./anomaly-detection-outlier-analysis/notebooks/Pharmaceutical_Anomaly_Detection_All_Levels.ipynb) | Identifying unusual observations in a pharmaceutical dataset using anomaly/outlier detection |
+| Customer Segmentation | [DBSCAN and Silhouette Clustering (Intermediate)](./customer-segmentation-rfm-kmeans/notebooks/DBSCAN_Silhouette_Clustering_Intermediate.ipynb) | Customer clustering and assessment with DBSCAN and silhouette coefficient |
+| Computer Vision | [MobileNetV2 Cats vs Dogs Classification (Beginner)](./computer-vision-cnn-cats-dogs/notebooks/MobileNetV2_Cats_Dogs_Classification_Beginner.ipynb) | Transfer learning and image classification using a cats/dogs subset of CIFAR-10 |
+| Hyperparameter Optimization | [Hyperparameter Tuning — Extra Solution](./hyperparameter-optimization-machine-learning/notebooks/Hyperparameter_Tuning_Extra_Solution.ipynb) | Model hyperparameter optimization exercises |
+
+### Relevant Machine Learning Skills
+
+- **Supervised learning:** regression, classification, decision trees, ensemble methods and gradient boosting.
+- **Unsupervised learning:** clustering, dimensionality reduction, anomaly detection and autoencoders.
+- **Model development:** data preprocessing, feature engineering, handling imbalanced data, evaluation metrics and hyperparameter tuning.
+- **Further exercises:** CNN-based computer vision, reinforcement learning and AutoML.
+
+The exercises are presented as learning and applied modeling work; production deployment or real-world performance is not implied unless demonstrated in the relevant project.
+
 ## 🚀 How to View & Run the Projects
 
 1. **GitHub Viewer:** Simply click on any project above and open the .ipynb files in the 
